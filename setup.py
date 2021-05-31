@@ -32,7 +32,7 @@ requirements = [
     "patsy==0.5.1",
     "Pillow==8.0.1",
     "plotly==3.10.0",
-    "pystan==2.18.0.0",
+    "pystan==2.19.1.1",
     "pyzmq==22.0.3",
     "scipy==1.5.4",
     "seaborn==0.9.0",
